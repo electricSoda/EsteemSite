@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+
+h1 {
+    font-size:70px;
+    color: black;
+    text-decoration: underline;
+}
+
+h3 {
+    color: dodgerblue;
+}
+
+.box {
+  background-color: rgb(217, 243, 130);
+  width: 500px;
+  height: 500px;
+  border: 15px solid dodgerblue;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+  overflow: scroll;
+}
+
+  
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    height: 100px;
+}
+
+.topnav .btn {
+  background-color: DodgerBlue;
+  position: relative;
+  top: -35px;
+  float: top;
+  border: none;
+  color: white;
+  padding: 12px 12px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.topnav .btn:hover {
+  background-color: rgb(5, 64, 173);
+}
+
+.headerimg {
+    align: left;
+    width: 90px;
+    height:90px;
+} 
+
+
+div.a {
+  text-align: center;
+  color: rgb(0, 19, 189);
+}
+
+.bodycolor {
+    color: darkgoldenrod;
+}
+
+#grad {
+    height: 1000px;
+    background-color: grey;
+    background-image: linear-gradient(to bottom right, lightyellow, yellow);
+}
