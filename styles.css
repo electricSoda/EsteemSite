@@ -38,6 +38,19 @@ h3 {
   align: center,
 }
 
+.box2 {
+  background-color: rgb(217, 243, 130);
+  width: 250px;
+  height: 200px;
+  border: 15px solid dodgerblue;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+  overflow: scroll;
+  align-items: center;
+  align: center,
+}
+
 #about {
   position: relative;
   left: 50px;
@@ -80,7 +93,7 @@ h3 {
 } 
 
 
-div.a {
+.a {
   text-align: center;
   color: rgb(0, 19, 189);
 }
@@ -95,6 +108,12 @@ div.a {
     background-image: linear-gradient(to bottom right, lightyellow, yellow);
     position: relative;
     top: -50px;
+}
+
+#grad2 {
+  height: 8000px;
+  background-color: grey;
+  background-image: linear-gradient(to bottom right, lightyellow, yellow);
 }
 
 #meet {
