@@ -25,6 +25,30 @@ h3 {
   overflow: scroll;
 }
 
+.box1 {
+  background-color: rgb(217, 243, 130);
+  width: 500px;
+  height: 300px;
+  border: 15px solid dodgerblue;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+  overflow: scroll;
+  align-items: center;
+  align: center,
+}
+
+#about {
+  position: relative;
+  left: 50px;
+}
+
+#mission {
+  position: relative;
+  left: 775px;
+  bottom: 450px;
+}
+
   
 .topnav {
     overflow: hidden;
@@ -66,7 +90,14 @@ div.a {
 }
 
 #grad {
-    height: 1000px;
+    height: 8000px;
     background-color: grey;
     background-image: linear-gradient(to bottom right, lightyellow, yellow);
+    position: relative;
+    top: -50px;
+}
+
+#meet {
+  position: relative;
+  top: -300px;
 }
