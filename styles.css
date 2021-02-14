@@ -14,6 +14,54 @@ h3 {
     color: dodgerblue;
 }
 
+#msg {
+  color: dodgerblue;
+  font-weight: bold
+}
+
+#submsg {
+  width: 500px;
+}
+
+#send {
+  color: dodgerblue;
+  background-color:aliceblue;
+  border-color: rgb(27, 27, 27);
+  border-radius: 3px;
+}
+
+#chat-GUI {
+  border-radius: 7px;
+  border: 5px solid rgba(121, 118, 118, 0.609);
+  height: 900px;
+  width: 900px;
+  padding: 10px;
+  position: relative;
+  top: 25px;
+  left: 290px;
+  background-color: rgba(172, 172, 172, 0.986);
+}
+
+#text-area {
+  border-radius: 7px;
+  height: 550px;
+  width: 650px;
+  background: white;
+  padding: 50px;
+  position: relative;
+  left: 75px;
+  top: 25px;
+}
+
+#pinappend {
+  font-size:20px;
+  color: whitesmoke;
+}
+
+.c {
+  border: 5px solid darkturquoise;
+}
+
 .box {
   background-color: rgb(217, 243, 130);
   width: 500px;
