@@ -73,9 +73,9 @@ h3 {
   background-color: rgb(217, 243, 130);
   width: 500px;
   height: 500px;
-  border: 15px solid dodgerblue;
+  border: 15px solid rgb(0, 0, 0);
   padding: 50px;
-  margin: 20px;
+  margin: auto;
   color: black;
   overflow: scroll;
 }
@@ -84,20 +84,19 @@ h3 {
   background-color: rgb(217, 243, 130);
   width: 500px;
   height: 300px;
-  border: 15px solid dodgerblue;
+  border: 15px solid rgb(0, 0, 0);
   padding: 50px;
   margin: 20px;
   color: black;
   overflow: scroll;
   align-items: center;
-  align: center,
 }
 
 .box2 {
   background-color: rgb(217, 243, 130);
   width: 250px;
   height: 200px;
-  border: 15px solid dodgerblue;
+  border: 15px solid rgb(0, 0, 0);
   padding: 50px;
   margin: 20px;
   color: black;
